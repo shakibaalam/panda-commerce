@@ -1,0 +1,34 @@
+
+.panda-bg{
+    background-color: #fde6e5;
+}
+
+.panda-price{
+    color:  #FF136F;
+}
+.panda-btn{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    color: white;
+    margin-top: 10px ;
+}
+.panda-btn i{
+    margin-left: 4px;
+}
+.panda-bg-watch{
+    background-image: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.panda-bg-bag{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.panda-bg-shoes{
+    background-image: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.height{
+    height: 300px;
+}
+.send-btn{
+    padding: 10px 50px;
+    margin: 20px 120px;
+
+}
